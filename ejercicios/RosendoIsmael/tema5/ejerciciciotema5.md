@@ -6,7 +6,7 @@ Para instalarlo ejecutamos en terminal:
 
     sudo apt-get install ansible
     
-![](snapshot36.png)
+![](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/snapshot36.png)
 
 Para realizar la configuración de inventario icluyendo dos IP's debemos arrancar las máquinas, obtenemos la IP, creamos el inventario y lo exportamos a Ansible. Para todo esto ejecutamos lo siguiente:
 
