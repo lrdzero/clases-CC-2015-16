@@ -60,7 +60,6 @@ Para cambiar los parámeros basta con ajustar las barras de desplazamiento:
 
 # Ejercicio 5
 ## Comparar las prestaciones de un servidor web en una jaula y el mismo servidor en un contenedor. Usar nginx.
-Para hacer esta comparación vamos a crear tanto una jaula como un contenedor que contengan la misma versión de Ubuntu 15.10 (Wily) 64 bits.
 
 # Ejercicio 6
 ## 1. Instalar `juju`.
@@ -163,7 +162,6 @@ $  sudo apt-get install nginx
 
 # Ejercicio 11
 ## Crear a partir del contenedor anterior una imagen persistente con commit.
-Para crear una imagen persistente a partir de un contenedor necesitaremos mínimo conocer su ID largo, para eso añadimos al comando de lista los contenedores de Docker la opción `-notrunc`. Con este ID además podemos **"inspeccionar"** (opción `inspect`) dichos contenedores para obtener diversa información, como el nombre del host, la imagen cargada, si el contenedor está en funcionaniento o la dirección IP.
 
 
 # Ejercicio 12
