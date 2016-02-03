@@ -59,7 +59,7 @@ Lista de objetivos
 * [X] Entender los mecanismos de despliegue de aplicaciones en un PaaS.
 * [X] Examinar las diferencias entre las diferentes ofertas de PaaS.
 * [X] Trabajar con los add-ons de los diferentes PaaS usados.
-* [] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
+* [X] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
 
 ###Clase del 9 de noviembre de 2015
 
@@ -68,7 +68,7 @@ Lista de objetivos
 * [X] Examinar las diferencias entre las diferentes ofertas de DBaaS
 * [X] Probar diferentes bases de datos NoSQL como Redis y ver la utilidad en una aplicación en la nube.
 * [X] Entender las tags de Git y su uso para despliegues y lanzamientos.
-* [] Darse de alta en diferentes bases de datos en la nube que se puedan usar de forma experimental.
+* [X] Darse de alta en diferentes bases de datos en la nube que se puedan usar de forma experimental.
 
 ###Clase del 16 de noviembre de 2015
 
@@ -76,7 +76,7 @@ Lista de objetivos
 * [X] Entender los mecanismos de despliegue de aplicaciones en un PaaS.
 * [X] Examinar las diferencias entre las diferentes ofertas de PaaS.
 * [X] Trabajar con los add-ons de los diferentes PaaS usados.
-* [] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
+* [X] Usar GitHub de forma más avanzada, usando ramas de desarrollo, por ejemplo.
 * [X] Comentar cuestiones relacionadas con la segunda práctica.
 * [X] Ponerse al día de los ejercicios del segundo tema.
 
@@ -117,12 +117,9 @@ Lista de objetivos
 
 ###Tema 5 - Gestión de infraestructuras virtuales
 
-* [] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-* [] Documentar y mantener una plataforma virtual.
-* [] Realizar tareas de administración en infraestructura virtual.
-* [] Aprender lenguajes de configuración usados en infraestructuras virtuales.
-* [] Saber cómo aplicarlos en un caso determinado.
-* [] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
-
-
-
+* [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [X] Documentar y mantener una plataforma virtual.
+* [X] Realizar tareas de administración en infraestructura virtual.
+* [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+* [X] Saber cómo aplicarlos en un caso determinado.
+* [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorizació más usados hoy en día.
