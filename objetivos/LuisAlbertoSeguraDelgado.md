@@ -105,13 +105,25 @@ Lista de objetivos
 ### Octava semana, 23 de noviembre 2015
 #### Objetivos a cubrir en esta semana
 
-- [] Entender la definición de la infraestructura virtual en PaaS.
-- [] Examinar los componentes que se pueden usar en una aplicación desplegada en un PaaS.
+- [X] Entender la definición de la infraestructura virtual en PaaS.
+- [X] Examinar los componentes que se pueden usar en una aplicación desplegada en un PaaS.
 
 #### Otros objetivos
 
-- [] Alta en diferentes PaaS y examinar sus parecidos y diferencias.
-- [] Descargar los *toolbelts* de los diferentes PaaS y usarlos para
+- [X] Alta en diferentes PaaS y examinar sus parecidos y diferencias.
+- [X] Descargar los *toolbelts* de los diferentes PaaS y usarlos para
   despliegue automático.
-- [] Altas en otros servicios que se puedan integrar en un PaaS.
-- [] Experimentar con despliegues automáticos.
+- [X] Altas en otros servicios que se puedan integrar en un PaaS.
+- [X] Experimentar con despliegues automáticos.
+
+### Novena semana, 30 de Noviembre 2015
+
+* [x]  Entender los procesos y el concepto de virtualización ligera.
+* [x]  Comprender su uso dentro de un proceso de integración y despliegue continuo.
+* [x]  Conocer diferentes herramientas para llevar a cabo la virtualización.
+
+#### Otros objetivos
+
+* [x]  Descargar herramientas para trabajar con lxc y docker.
+* [x]  Comprender las herramientas que despliegan a infraestructura virtual.
+
