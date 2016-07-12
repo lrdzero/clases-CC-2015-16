@@ -18,5 +18,11 @@ estudiante. Incluir también un enlace a la aplicación desplegada en el PaaS y 
 **Enlace a la aplicación en Heroku**
 [ImagesDB](https://imagesdb-cc.herokuapp.com/)
 
+**Enlace a la documentación del Hito 4:**
+[https://github.com/Leontes/ImagesDB/blob/master/README.md](https://github.com/Leontes/ImagesDB#hito-4)
+
+**Enlace a la aplicación en Docker Hub**
+[leontes/imagesdb](https://hub.docker.com/r/leontes/imagesdb/)
+
 **Alumno:**
 José Ángel Segura Muros: [@Leontes](https://github.com/Leontes)
