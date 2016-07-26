@@ -24,9 +24,19 @@ estudiante. Incluir también un enlace a la aplicación desplegada en el PaaS y 
 **Enlace a la aplicación en Docker Hub**
 [leontes/imagesdb](https://hub.docker.com/r/leontes/imagesdb/)
 
+**Alumno:**
+José Ángel Segura Muros: [@Leontes](https://github.com/Leontes)
+
 ## Chat CCProyect
 
 **Enlace al repositorio:** [https://github.com/lrdzero/CCProyect](https://github.com/lrdzero/CCProyect.git)
 
+**Enlace a la documentación Hito 1:**
+[https://github.com/lrdzero/CCProyect/blob/master/README.md](https://github.com/lrdzero/CCProyect/blob/master/README.md#hito-1)
+
+**Enlace a la documentación Hito 2:**
+[https://github.com/lrdzero/CCProyect/blob/master/README.md](https://github.com/lrdzero/CCProyect/blob/master/README.md#hito-2)
+
 **Alumno:**
-José Ángel Segura Muros: [@Leontes](https://github.com/Leontes)
+Rosendo Ismael Fernández Pérez: [@lrdzero](https://github.com/lrdzero)
+
