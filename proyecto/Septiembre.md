@@ -39,11 +39,13 @@ José Ángel Segura Muros: [@Leontes](https://github.com/Leontes)
 
 **Enlace a la documentación Hito 3:**
 [https://github.com/lrdzero/CCProyect/blob/master/README.md](https://github.com/lrdzero/CCProyect/tree/master#hito-3)
-**Enlace a heroku *** 
+
+**Enlace a heroku:**
 [Heroku CCProyect](https://ccproyect-v-2.herokuapp.com/)
+
 **Enlace a la documentación Hito 4:**
 [https://github.com/lrdzero/CCProyect/blob/master/README.md](https://github.com/lrdzero/CCProyect/tree/master#hito-4)
-En este hito estoy teniendo algunos problemas actualmente.
+
 
 **Alumno:**
 Rosendo Ismael Fernández Pérez: [@lrdzero](https://github.com/lrdzero)
